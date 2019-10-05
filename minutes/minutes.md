@@ -14,3 +14,12 @@
 - DialogFlow 플랫폼 분석
 - 단비 플랫폼 분석
 - 챗봇에 대한 팀별 발표 PPT 준비
+
+## 201909??
+- 수업? 
+
+## 20191001
+- 단어임베딩 서적 구매(31,500원, 문헌구입비)
+
+## 20191005
+- [라즈베리파이 부품](https://smartstore.naver.com/makerspace/category/0ce286ea7baa47d5ae6827666a081c70?cp=1)
