@@ -27,7 +27,7 @@
 - 라즈베리파이(키오스크)
   - 사람의 말을 음성인식을 통해 질문을 입력하여 스피커를 통해 음성으로 [공통기능]을 수행.
   - 라즈베리파이와 결합한 터치스크린으로 터치를 통하여 작동할 수 있음.
-- 텔레그램
+- [텔레그램](https://github.com/JeongMyeong/Capstone-Design-6-/tree/master/Telegram/telegram.md)
   - DanbeeAI에서 제공해주는 채널기능으로 [공통기능]을 수행함
   
 ![pic1](https://github.com/JeongMyeong/Capstone-Design-6-/blob/master/pic/%EA%B7%B8%EB%A6%BC1.png)
