@@ -29,4 +29,9 @@
   - 라즈베리파이와 결합한 터치스크린으로 터치를 통하여 작동할 수 있음.
 - 텔레그램
   - DanbeeAI에서 제공해주는 채널기능으로 [공통기능]을 수행함
+  
+![pic1](https://github.com/JeongMyeong/Capstone-Design-6-/blob/master/pic/%EA%B7%B8%EB%A6%BC1.png)
 
+
+# 프로젝트 전체 구성
+![pic2](https://github.com/JeongMyeong/Capstone-Design-6-/blob/master/pic/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B5%AC%EC%84%B1.png)
